@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HariharanVijay/To-Do-list.git/static/css/main.e2d5a18c.css",
+    "main.js": "/HariharanVijay/To-Do-list.git/static/js/main.98901e22.js",
+    "static/js/787.3fad3390.chunk.js": "/HariharanVijay/To-Do-list.git/static/js/787.3fad3390.chunk.js",
+    "index.html": "/HariharanVijay/To-Do-list.git/index.html",
+    "main.e2d5a18c.css.map": "/HariharanVijay/To-Do-list.git/static/css/main.e2d5a18c.css.map",
+    "main.98901e22.js.map": "/HariharanVijay/To-Do-list.git/static/js/main.98901e22.js.map",
+    "787.3fad3390.chunk.js.map": "/HariharanVijay/To-Do-list.git/static/js/787.3fad3390.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2d5a18c.css",
+    "static/js/main.98901e22.js"
+  ]
+}
